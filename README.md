@@ -11,9 +11,9 @@ Governments across Europe are preparing for the emergence from lockdown, in phas
 
 Code used to generate the results and figures in the paper in scripts:
 
-SPM12 is required to reproduce these results. 
+SPM12 is required to reproduce these results (https://www.fil.ion.ucl.ac.uk/spm/covid-19/#software). 
 
-Version SPM12 Toolbox files in spm_version_files
+Version SPM12 Toolbox files used for this work found in spm_version_files
 
 To Run Model:
 
