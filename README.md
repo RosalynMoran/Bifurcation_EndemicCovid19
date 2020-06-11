@@ -6,7 +6,7 @@ Governments across Europe are preparing for the emergence from lockdown, in phas
 
 
 
-Code used to generate the results and figures in the paper are in the scripts folder.
+Code used to generate the results and figures in the paper:
 SPM12 (version here) is required to reproduce these results. 
 
 To Run England: DEM_COVID_England.m
