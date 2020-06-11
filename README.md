@@ -10,8 +10,13 @@ Governments across Europe are preparing for the emergence from lockdown, in phas
 
 
 Code used to generate the results and figures in the paper in scripts:
+
 SPM12 is required to reproduce these results. 
+
 Version SPM12 Toolbox in spm_toolbox
+
+To Run Model:
+
 Add spm to matlab path
 
 Then
