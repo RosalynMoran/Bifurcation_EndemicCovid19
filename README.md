@@ -13,7 +13,7 @@ Code used to generate the results and figures in the paper in scripts:
 
 SPM12 is required to reproduce these results. 
 
-Version SPM12 Toolbox in spm_toolbox
+Version SPM12 Toolbox files in spm_version_files
 
 To Run Model:
 
